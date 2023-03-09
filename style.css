@@ -1,0 +1,87 @@
+
+head{
+    background: blue;
+}
+
+title {
+    background-color: lightskyblue;
+    color: black;
+}
+
+header {
+    display: flex;
+    flex-direction: row;s
+    justify-content: space-between;
+    background-color: blueviolet;
+    color: azure;
+    align-items: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+  }
+
+  a {
+    display: block;
+    padding:0.5em;
+    text-decoration:none;
+  }
+
+body {
+    font-family: Helvetica;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0%;
+  }
+
+
+.about-me {
+    color: blue;
+}
+
+.bio {
+    color: blue;
+}
+
+.work {
+    color: blue;
+}
+
+.jobs {
+    color: blue;
+}
+
+.contact {
+    color: blue;
+}
+
+.socials {
+    color: blue;
+}
+
+.resume {
+    color: blue;
+}
+
+.experience {
+    color: blue;
+}
+
+footer {
+    color: black;
+}
